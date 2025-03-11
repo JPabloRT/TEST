@@ -1,0 +1,12 @@
+Aquí tienes la tabla con el apartado de "Total" agregado:
+
+| **Valor Moral**   | **Descripción**                                                                                                                                                               | **Total** |
+|-------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------|
+| **Teórico**       | Lleva a cabo la búsqueda de la verdad mediante la investigación, utilizando un proceso lógico, ordenado y claro.                                                               |           |
+| **Económico**     | Preponderancia del valor de la utilidad de las relaciones. Implica lo práctico, materialista, ahorro de energía, espacio y tiempo. Se interesa en hacer suyo el conocimiento técnico para obtener provecho de las cosas y darles utilidad. |           |
+| **Estético**      | Busca su satisfacción personal en la contemplación o reproducción de la belleza.                                                                                              |           |
+| **Social**        | Busca la compañía de los demás. Siente un gran placer en ofrecer y dar servicio a los demás.                                                                                  |           |
+| **Político**      | Utiliza los conocimientos como medio para obtener el poder. Requiere de voluntad de mando y deseo de dirigir y gobernar a los demás.                                          |           |
+| **Religioso**     | Orienta su propia vida de acuerdo con sus convicciones éticas y religiosas, presentando una tendencia a invitar a los demás a participar en estas experiencias.              |           |
+
+En este caso, la columna de "Total" es un campo vacío, ya que no has proporcionado puntuaciones. Si tienes las puntuaciones para cada valor, puedes agregarlas en esta columna. ¿Te gustaría incluir alguna puntuación en particular o alguna otra información?
